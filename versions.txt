@@ -1,1 +1,1 @@
-peak_rentals:1.0.1
+peak_rentals:1.0.2
