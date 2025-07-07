@@ -1,2 +1,2 @@
-peak_rentals:1.0.3
+peak_rentals:1.0.4
 peak_fishing:1.0.14
